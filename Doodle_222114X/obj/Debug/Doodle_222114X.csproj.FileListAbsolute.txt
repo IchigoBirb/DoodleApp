@@ -1,0 +1,11 @@
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\bin\Debug\Doodle_222114X.exe.config
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\bin\Debug\Doodle_222114X.exe
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\bin\Debug\Doodle_222114X.pdb
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.csproj.AssemblyReference.cache
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.csproj.SuggestedBindingRedirects.cache
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.MainForm_222114X.resources
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.Properties.Resources.resources
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.csproj.GenerateResource.cache
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.csproj.CoreCompileInputs.cache
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.exe
+C:\Application programing Y2S1\Doodle_222114X\Doodle_222114X\obj\Debug\Doodle_222114X.pdb
